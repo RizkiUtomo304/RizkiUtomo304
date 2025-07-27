@@ -33,9 +33,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RizkiUtomo304&theme=radical&show_icons=true&hide_border=false&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkiUtomo304&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RizkiUtomo304&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00FF9F&icon_color=FF007F&text_color=FFFFFF&count_private=true" height="170" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkiUtomo304&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00FF9F&text_color=FFFFFF" height="170" />
 </p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RizkiUtomo304&theme=radical&hide_border=false" height="165" />
