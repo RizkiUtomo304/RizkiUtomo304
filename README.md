@@ -1,5 +1,5 @@
 # 💫 About Me:
-Saya Adalah Junior Web Developer, Yang Suatu Saat Nanti Akan Menjadi Senior Fullstack Developer
+I am a Junior Web Developer, who is currently working towards becoming a Senior Fullstack Developer.
 
 
 ## 🌐 Socials:
