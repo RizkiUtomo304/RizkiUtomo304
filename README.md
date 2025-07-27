@@ -1,28 +1,39 @@
-<!-- Banner Animasi -->
+<!-- 🔥 Banner Animasi dengan Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF9F&width=600&lines=Hi!+I'm+Rizki+Utomo👋;Junior+Web+Developer+💻;Future+Senior+Fullstack+Developer🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=Hi!+I'm+Rizki+Utomo👋;Junior+Web+Developer+💻;Future+Senior+Fullstack+Developer🚀" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 💫 About Me:
-🔹 I am a **Junior Web Developer** who is passionate about building web & mobile apps.  
-🔹 Currently learning **Laravel, Flutter, and Fullstack Development**.  
-🔹 My goal is to become a **Senior Fullstack Developer** in the near future!  
+- 🔹 I am a **Junior Web Developer** who is passionate about building web & mobile apps.  
+- 🔹 Currently learning **Laravel, Flutter, and Fullstack Development**.  
+- 🔹 My goal is to become a **Senior Fullstack Developer** in the near future!  
 
 ---
 
 ## 🌐 Connect with Me:
 <p align="center">
-  <a href="https://instagram.com/rzkiiutm_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:t752930@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://instagram.com/rzkiiutm_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:t752930@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
 ## 💻 Tech Stack:
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,laravel,flutter,tailwind,html,css,mysql,supabase,vercel,netlify,git,github,vscode,figma,ai,ps,unity" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,laravel,flutter,tailwind,html,css,mysql,supabase,vercel,netlify,git,github,vscode,figma,ai,ps,unity" />
+</p>
+
+---
+
+## 🏆 GitHub Trophy:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RizkiUtomo304&theme=radical&no-frame=false&no-bg=false&margin-w=5" />
 </p>
 
 ---
@@ -38,7 +49,6 @@
 </p>
 
 ---
-
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=RizkiUtomo304&label=Profile%20Views&color=12&icon=5&pretty=true" />
