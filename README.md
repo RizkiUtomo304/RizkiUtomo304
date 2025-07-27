@@ -1,14 +1,14 @@
 <!-- Banner Animasi -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFF7&center=true&vCenter=true&width=750&lines=Hi!+I'm+Rizki+Utomo👋;Junior+Web+Developer💻;Future+Senior+Fullstack+Developer🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFF7&center=true&vCenter=true&width=750&lines=Hi!+I'm+Rizki+Utomo;Junior+Web+Developer;Future+Senior+Fullstack+Developer" alt="Typing SVG" />
 </p>
 
 ---
 
 ## ⚡ About Me
-- 👨‍💻 **Junior Web Developer** passionate about building web & mobile apps  
-- 🚀 Currently learning **Laravel, Flutter, and Fullstack Development**  
-- 🎯 My target → **Senior Fullstack Developer** in the near future!  
+-  **Junior Web Developer** passionate about building web & mobile apps  
+-  Currently learning **Laravel, Flutter, and Fullstack Development**  
+-  My target → **Senior Fullstack Developer** in the near future!  
 
 ---
 
