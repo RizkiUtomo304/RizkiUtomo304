@@ -1,6 +1,6 @@
-<!-- 🌌 Banner Galaxy GIF -->
+<!-- 🌌 Banner Galaxy (GIF Aman) -->
 <p align="center">
-  <img src="https://i.ibb.co/3F4kFbB/galaxy-banner.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/itsZed0/ReadmeAssets/main/galaxy.gif" width="100%" />
 </p>
 
 <!-- ✍️ Typing Animation -->
@@ -11,23 +11,27 @@
 ---
 
 ## ⚡ About Me  
-🔹 **Junior Web Developer** yang suka ngulik web & mobile apps.  
-🔹 Lagi mendalami **Laravel, Flutter, Fullstack Development**.  
-🔹 🎯 Misi gue → **Senior Fullstack Developer** 🚀  
+🔥 **Junior Web Developer** yang suka ngulik web & mobile apps.  
+🌱 Lagi mendalami **Laravel, Flutter, Fullstack Development**.  
+🎯 Target gue → **Senior Fullstack Developer** 🚀  
 
 ---
 
 ## 🌐 Connect with Me  
 <p align="center">
-  <a href="https://instagram.com/rzkiiutm_"><img src="https://img.shields.io/badge/Instagram-%23ff007f.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:t752930@gmail.com"><img src="https://img.shields.io/badge/Email-%23ff1a1a.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/rzkiiutm_">
+    <img src="https://img.shields.io/badge/Instagram-%23ff007f.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:t752930@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23ff1a1a.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,laravel,flutter,tailwind,html,css,mysql,supabase,vercel,netlify,git,github,vscode,figma,ai,ps,unity" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,laravel,flutter,tailwind,mysql,supabase,vercel,netlify,git,github,vscode,figma,ai,ps,unity" />
 </p>
 
 ---
@@ -55,19 +59,17 @@
 
 ## 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🎇 Animated Profile Views  
+## 👁️ Profile Views  
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=RizkiUtomo304&label=Profile%20Views&color=0&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=RizkiUtomo304&label=Profile%20Views&color=00fff7&icon=5&pretty=true" />
 </p>
 
----
-
-<!-- 🚀 Footer Gradient -->
+<!-- 🌊 Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff7,100:00ff9d&height=120&section=footer" />
 </p>
