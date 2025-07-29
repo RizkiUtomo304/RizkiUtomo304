@@ -5,10 +5,19 @@
 
 ---
 
-## ⚡ About Me
--  **Web Developer** passionate about building web & mobile apps  
--  Currently learning **Laravel, Flutter, and Fullstack Development**  
--  My target → **Senior Fullstack Developer** in the near future!  
+<h2 style="background: linear-gradient(90deg, #ff8a00, #e52e71); 
+           -webkit-background-clip: text; 
+           color: transparent; 
+           font-weight: bold;">
+⚡ About Me
+</h2>
+
+<ul style="font-family: 'Poppins', sans-serif; font-size: 18px;">
+  <li>🎯 <strong>Web Developer</strong> passionate about building web & mobile apps</li>
+  <li>📚 Currently learning <strong>Laravel, Flutter, and Fullstack Development</strong></li>
+  <li>🚀 My target → <strong>Senior Fullstack Developer</strong> in the near future!</li>
+</ul>
+
 
 ---
 
