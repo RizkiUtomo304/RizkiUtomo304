@@ -4,20 +4,10 @@
 </p>
 
 ---
-
-<h2 style="background: linear-gradient(90deg, #ff8a00, #e52e71); 
-           -webkit-background-clip: text; 
-           color: transparent; 
-           font-weight: bold;">
-⚡ About Me
-</h2>
-
-<ul style="font-family: 'Poppins', sans-serif; font-size: 18px;">
-  <li>🎯 <strong>Web Developer</strong> passionate about building web & mobile apps</li>
-  <li>📚 Currently learning <strong>Laravel, Flutter, and Fullstack Development</strong></li>
-  <li>🚀 My target → <strong>Senior Fullstack Developer</strong> in the near future!</li>
-</ul>
-
+## ⚡ 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚
+- 🎯 **𝙒𝙚𝙗 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧** passionate about building web & mobile apps  
+- 📚 Currently learning **𝙇𝙖𝙧𝙖𝙫𝙚𝙡, 𝙁𝙡𝙪𝙩𝙩𝙚𝙧, and 𝙁𝙪𝙡𝙡𝙨𝙩𝙖𝙘𝙠 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩**  
+- 🚀 My target → **𝙎𝙚𝙣𝙞𝙤𝙧 𝙁𝙪𝙡𝙡𝙨𝙩𝙖𝙘𝙠 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧** in the near future!  
 
 ---
 
