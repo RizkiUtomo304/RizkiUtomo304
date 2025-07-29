@@ -6,7 +6,7 @@
 ---
 
 ## ⚡ About Me
--  **Junior Web Developer** passionate about building web & mobile apps  
+-  **Web Developer** passionate about building web & mobile apps  
 -  Currently learning **Laravel, Flutter, and Fullstack Development**  
 -  My target → **Senior Fullstack Developer** in the near future!  
 
