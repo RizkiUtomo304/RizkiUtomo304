@@ -37,9 +37,6 @@
 </p> 
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RizkiUtomo304&theme=radical&hide_border=false" height="165" />
-</p>
 
 ---
 
