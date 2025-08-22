@@ -32,11 +32,10 @@
 
 ##  GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RizkiUtomo304&theme=radical&show_icons=true&hide_border=false&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkiUtomo304&layout=compact&theme=radical" height="165" />
-  <img src="![Rizki's GitHub stats](https://github-readme-stats.vercel.app/api?username=RizkiUtomo304&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-"/>
-</p> 
+  <img src="https://github-readme-stats.vercel.app/api?username=RizkiUtomo304&show_icons=true&theme=radical&count_private=true&include_all_commits=true&token=${{ secrets.GH_STATS_TOKEN }}" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkiUtomo304&layout=compact&theme=radical&token=${{ secrets.GH_STATS_TOKEN }}" height="165" />
+</p>
+
 
 
 
