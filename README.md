@@ -36,6 +36,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkiUtomo304&layout=compact&theme=radical" height="165" />
 </p>
 
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 
 
