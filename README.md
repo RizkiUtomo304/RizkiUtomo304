@@ -38,9 +38,8 @@
 
 ---
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
+<!-- Versi retro -->
+![snake retro](https://raw.githubusercontent.com/RizkiUtomo304/RizkiUtomo304/output/retro.gif)
 
 
 
