@@ -18,8 +18,7 @@ A passionate **Web & Mobile Developer** who loves turning ideas into reality ğŸš
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RizkiUtomo304&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizkiUtomo304&theme=radical" height="165" />
-</p>
+
 
 ---
 
@@ -43,7 +42,8 @@ A passionate **Web & Mobile Developer** who loves turning ideas into reality ğŸš
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RizkiUtomo304&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="165" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizkiUtomo304&theme=radical" height="165" />
+</p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkiUtomo304&layout=compact&theme=radical" height="165" />
 </p>
 
