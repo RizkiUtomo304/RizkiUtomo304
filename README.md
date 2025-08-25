@@ -6,7 +6,7 @@
 ---
 ## ⚡ About Me  
 
-👋 Hi there! I'm **Rizki Utomo**  
+Hi there! I'm **Rizki Utomo**  
 A passionate **Web & Mobile Developer** who loves turning ideas into reality 🚀  
 
 - 🌱 Currently learning **Laravel, Flutter & Fullstack Development**  
