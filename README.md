@@ -4,10 +4,22 @@
 </p>
 
 ---
-##  𝘼𝙗𝙤𝙪𝙩 𝙈𝙚
--  **𝙒𝙚𝙗 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧** passionate about building web & mobile apps  
--  Currently learning **𝙇𝙖𝙧𝙖𝙫𝙚𝙡, 𝙁𝙡𝙪𝙩𝙩𝙚𝙧, and 𝙁𝙪𝙡𝙡𝙨𝙩𝙖𝙘𝙠 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩**  
--  My target → **𝙎𝙚𝙣𝙞𝙤𝙧 𝙁𝙪𝙡𝙡𝙨𝙩𝙖𝙘𝙠 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧** in the near future!  
+## ⚡ About Me  
+
+👋 Hi there! I'm **Rizki Utomo**  
+A passionate **Web & Mobile Developer** who loves turning ideas into reality 🚀  
+
+- 🌱 Currently learning **Laravel, Flutter & Fullstack Development**  
+- 🛠️ Love to build **projects from scratch → deploy to production**  
+- 🎯 Goal: Becoming a **Senior Fullstack Developer** in the near future  
+- ✨ Motto: *Code. Create. Innovate.*  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RizkiUtomo304&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizkiUtomo304&theme=radical" height="165" />
+</p>
 
 ---
 
