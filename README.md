@@ -44,14 +44,6 @@ A passionate **Web & Mobile Developer** who loves turning ideas into reality ðŸš
 
 ---
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizkiUtomo304&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkiUtomo304&layout=compact&theme=radical" height="165" />
-</p>
-</p>
-
----
-
 <!-- Versi retro -->
 ![snake retro](https://raw.githubusercontent.com/RizkiUtomo304/RizkiUtomo304/output/retro.gif)
 
