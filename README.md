@@ -8,8 +8,7 @@
 
 Hi there! I'm **Rizki Utomo**  
 A passionate **Web & Mobile Developer** who loves turning ideas into reality 🚀  
-
-- 🌱 Currently learning **Laravel, Flutter & Fullstack Development**  
+ 
 - 🛠️ Love to build **projects from scratch → deploy to production**  
 - 🎯 Goal: Becoming a **Senior Fullstack Developer** in the near future  
 - ✨ Motto: *Code. Create. Innovate.*  
