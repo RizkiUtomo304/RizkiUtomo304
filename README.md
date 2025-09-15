@@ -5,8 +5,6 @@
 
 ---
 
-## ⚡ About Me
-
 ```js
 const RizkiUtomo = {
   role: "Web & Mobile Developer",
@@ -27,7 +25,7 @@ const RizkiUtomo = {
 
 ---
 
-##  Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,laravel,flutter,tailwind,html,css,mysql,supabase,vercel,netlify,git,github,vscode,figma,ai,ps,unity" />
 </p>
@@ -38,8 +36,6 @@ const RizkiUtomo = {
 ![snake retro](https://raw.githubusercontent.com/RizkiUtomo304/RizkiUtomo304/output/retro.gif)
 
 ---
-
-## 🐍 Contribution Snake  
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
