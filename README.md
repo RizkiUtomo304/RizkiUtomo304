@@ -5,8 +5,9 @@
 
 ---
 
- About me
- 
+## ⚡ About Me
+
+```js
 const RizkiUtomo = {
   role: "Web & Mobile Developer",
   focus: ["Fullstack Development", "UI/UX", "App Deployment"],
@@ -14,6 +15,8 @@ const RizkiUtomo = {
   goal: "Become a Senior Fullstack Developer",
   motto: "Code. Create. Innovate."
 };
+
+```
 
 
 ---
