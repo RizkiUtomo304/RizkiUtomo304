@@ -4,21 +4,23 @@
 </p>
 
 ---
-## ⚡ About Me  
+## ⚡ About Me
 
-Hi there! I'm **Rizki Utomo**  
-A passionate **Web & Mobile Developer** who loves turning ideas into reality 🚀  
- 
-- 🛠️ Love to build **projects from scratch → deploy to production**  
-- 🎯 Goal: Becoming a **Senior Fullstack Developer** in the near future  
-- ✨ Motto: *Code. Create. Innovate.*  
+```ts
+const RizkiUtomo = {
+  role: "Web & Mobile Developer",
+  focus: ["Fullstack Development", "UI/UX", "App Deployment"],
+  currently: "Building real-world projects & improving problem solving",
+  goal: "Become a Senior Fullstack Developer",
+  motto: "Code. Create. Innovate."
+};
+
 
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RizkiUtomo304&show_icons=true&theme=radical" height="165" />
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizkiUtomo304&theme=radical" height="165" />
+
 </p>
 
 ---
