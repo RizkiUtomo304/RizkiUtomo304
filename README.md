@@ -4,9 +4,9 @@
 </p>
 
 ---
-## ⚡ About Me
 
-```ts
+ About me
+ 
 const RizkiUtomo = {
   role: "Web & Mobile Developer",
   focus: ["Fullstack Development", "UI/UX", "App Deployment"],
