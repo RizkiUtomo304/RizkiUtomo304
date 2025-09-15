@@ -18,24 +18,11 @@ const RizkiUtomo = {
 
 ```
 
-
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RizkiUtomo304&show_icons=true&theme=radical" height="165" />
 
-</p>
-
----
-
-##  Connect with Me
-<p align="center">
-  <a href="https://instagram.com/rzkiiutm_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:t752930@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 ---
@@ -49,9 +36,6 @@ const RizkiUtomo = {
 
 <!-- Versi retro -->
 ![snake retro](https://raw.githubusercontent.com/RizkiUtomo304/RizkiUtomo304/output/retro.gif)
-
-
-
 
 ---
 
