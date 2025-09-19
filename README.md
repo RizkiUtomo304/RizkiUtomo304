@@ -37,9 +37,6 @@ const RizkiUtomo = {
 </div>
 
 
-
----
-
 <!-- Versi retro -->
 ![snake retro](https://raw.githubusercontent.com/RizkiUtomo304/RizkiUtomo304/output/retro.gif)
 
