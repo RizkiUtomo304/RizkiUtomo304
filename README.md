@@ -25,11 +25,18 @@ const RizkiUtomo = {
 
 ---
 
-<!-- Skill Icons -->
+
 <!-- Skill Icons -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,laravel,flutter,tailwind,html,css,mysql,supabase,vercel,netlify,git,github,vscode,figma,ai,ps,unity" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,laravel,flutter" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=tailwind,html,css,mysql,supabase" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,git,github,vscode" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps,unity" />
 </div>
+
 
 
 ---
