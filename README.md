@@ -5,12 +5,20 @@
 
 ---
 
-``js
-const RizkiUtomo = {
-  role: "Web & Mobile Developer",
-  focus: ["Fullstack Dev", "UI/UX", "Deployment"],
-  goal: "Senior Fullstack Developer"
-};
+<!-- Skills -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🔹 Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=js,php,dart,html,css,python" /><br/>
+<img src="https://skillicons.dev/icons?i=react,flutter,laravel,tailwind,mysql" />
+
+### 🔹 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,vercel,netlify,unity" />
+
+</div>
+
 ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
