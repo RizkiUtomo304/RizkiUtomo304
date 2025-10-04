@@ -1,45 +1,16 @@
-<!-- Banner Animasi -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFF7&center=true&vCenter=true&width=750&lines=Hi!+I'm+Rizki+Utomo;+Web+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=Hi!+I'm+Rizki+Utomo;Web+%26+Mobile+Developer" alt="Typing SVG" />
 </p>
 
 ---
 
-```js
+``js
 const RizkiUtomo = {
   role: "Web & Mobile Developer",
-  focus: ["Fullstack Development", "UI/UX", "App Deployment"],
-  currently: "Building real-world projects & improving problem solving",
-  goal: "Become a Senior Fullstack Developer",
-  motto: "Code. Create. Innovate."
+  focus: ["Fullstack Dev", "UI/UX", "Deployment"],
+  goal: "Senior Fullstack Developer"
 };
-
-```
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RizkiUtomo304&show_icons=true&theme=radical" height="165" />
-
-</p>
-
----
-
-
-<!-- Skill Icons -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,dart,laravel,flutter,html,css,mysql,python" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,supabase,php,vscode,vercel,netlify" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=figma,postman,ps,unity" />
-  <br/>
-</div>
-
-
-<!-- Versi retro -->
-![snake retro](https://raw.githubusercontent.com/RizkiUtomo304/RizkiUtomo304/output/retro.gif)
-
 ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
