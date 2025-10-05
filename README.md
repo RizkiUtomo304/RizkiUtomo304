@@ -3,10 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=Hi!+I'm+Rizki+Utomo;Web+%26+Mobile+Developer" alt="Typing SVG" />
 </p>
 
----
+
 
 <!-- Skills -->
-## 🛠️ Tech Stack
+
 
 <div align="center">
 
