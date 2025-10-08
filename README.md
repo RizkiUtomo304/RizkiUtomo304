@@ -31,9 +31,11 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 
-### <h2 align="center">
-  <span style="font-family:'Fira Code', monospace; font-size:28px; color:#00FFFF; text-shadow:0 0 10px #00FFFF;">🔹Tools & Platforms</span>
-</h2>
+###  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=28&duration=1&color=00E5FF&center=true&vCenter=true&width=600&lines=Tools+%26+Platforms" alt="Tools & Platforms" />
+</p>
+
+
 
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
