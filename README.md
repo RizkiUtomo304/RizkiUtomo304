@@ -4,7 +4,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=Hi!+I'm+Rizki+Utomo;Web+%26+Mobile+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=Hi!+I'm+Rizki+Utomo" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,15 +14,10 @@
 
 <div align="center">
 
-###  <h2 align="center" style="font-family: Georgia, serif; color: #00E5FF; font-size: 28px; animation: blink 1s infinite;">
-  🔹 Languages & Frameworks
-</h2>
+###   <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=28&duration=1&color=00E5FF&center=true&vCenter=true&width=600&lines=Tools+%26+Platforms" alt="Languages & Frameworks" />
+</p>
 
-<style>
-@keyframes blink {
-  50% { opacity: 0; }
-}
-</style>
 
 
 
