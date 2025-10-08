@@ -11,7 +11,7 @@
 <div align="center">
 
 ###  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=28&duration=3000&color=00E5FF&center=true&vCenter=true&width=600&lines=🔹Languages+%26+Frameworks" alt="Languages & Frameworks" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=28&duration=10000&color=00E5FF&center=true&vCenter=true&width=600&lines=Languages+%26+Frameworks" alt="Languages & Frameworks" />
 </p>
 
 
