@@ -11,8 +11,9 @@
 <div align="center">
 
 ###  <h2 align="center">
-  <span style="font-family:'Fira Code', monospace; font-size:28px;">🔹Languages & Frameworks</span>
+  <span style="font-family:'Fira Code', monospace; font-size:28px; color:#00FFFF; text-shadow:0 0 10px #00FFFF;">🔹Languages & Frameworks</span>
 </h2>
+
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
@@ -29,8 +30,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 
 ### <h2 align="center">
-  <span style="font-family:'Fira Code', monospace; font-size:28px;">🔹 Tools & Platforms</span>
+  <span style="font-family:'Fira Code', monospace; font-size:28px; color:#00FFFF; text-shadow:0 0 10px #00FFFF;">🔹Tools & Platforms</span>
 </h2>
+
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
