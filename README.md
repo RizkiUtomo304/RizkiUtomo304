@@ -47,9 +47,7 @@
 </div>
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0A2E5D&height=120&section=footer)
 
 ---
 <p align="center">
