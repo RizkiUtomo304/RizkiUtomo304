@@ -14,9 +14,16 @@
 
 <div align="center">
 
-###  <h2 align="center" style="font-family: Georgia, serif; color: #00E5FF; font-size: 28px;">
+###  <h2 align="center" style="font-family: Georgia, serif; color: #00E5FF; font-size: 28px; animation: blink 1s infinite;">
   🔹 Languages & Frameworks
 </h2>
+
+<style>
+@keyframes blink {
+  50% { opacity: 0; }
+}
+</style>
+
 
 
 
