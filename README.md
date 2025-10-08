@@ -10,7 +10,10 @@
 
 <div align="center">
 
-### 🔹 Languages & Frameworks
+###  <h2 align="center">
+  <span style="font-family:'Fira Code', monospace; font-size:28px;">🔹Languages & Frameworks</span>
+</h2>
+
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
