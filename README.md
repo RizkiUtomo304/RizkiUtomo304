@@ -14,9 +14,10 @@
 
 <div align="center">
 
-###  <p align="center">
-  <img src="https://svg-badge.vercel.app/api?text=Languages%20%26%20Frameworks&color=00E5FF&font=Georgia&size=30" alt="Languages & Frameworks" />
-</p>
+###  <h2 align="center" style="font-family: Georgia, serif; color: #00E5FF; font-size: 28px;">
+  🔹 Languages & Frameworks
+</h2>
+
 
 
 
