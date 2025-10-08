@@ -1,3 +1,7 @@
+### ![Header](https://capsule-render.vercel.app/api?type=waving&color=0A2E5D&height=120&section=header&text=Welcome!&fontColor=ffffff&fontAlignY=35&fontSize=40)
+
+
+
 <!-- Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=Hi!+I'm+Rizki+Utomo;Web+%26+Mobile+Developer" alt="Typing SVG" />
@@ -47,7 +51,7 @@
 </div>
 
 ---
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0A2E5D&height=120&section=footer)
+### ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0A2E5D&height=120&section=footer)
 
 ---
 <p align="center">
