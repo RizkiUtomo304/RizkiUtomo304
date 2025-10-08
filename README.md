@@ -10,9 +10,11 @@
 
 <div align="center">
 
-###  <h2 align="center">
-  <span style="font-family:'Fira Code', monospace; font-size:28px; color:#00FFFF; text-shadow:0 0 10px #00FFFF;">🔹Languages & Frameworks</span>
-</h2>
+###  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=28&duration=3000&color=00E5FF&center=true&vCenter=true&width=600&lines=🔹Languages+%26+Frameworks" alt="Languages & Frameworks" />
+</p>
+
+
 
 
 
