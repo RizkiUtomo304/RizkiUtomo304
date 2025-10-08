@@ -16,20 +16,19 @@
 
 
 
+![JavaScript](https://img.shields.io/badge/JavaScript-0A2E5D?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-0A2E5D?style=for-the-badge&logo=php&logoColor=777BB4)
+![Dart](https://img.shields.io/badge/Dart-0A2E5D?style=for-the-badge&logo=dart&logoColor=0175C2)
+![Python](https://img.shields.io/badge/Python-0A2E5D?style=for-the-badge&logo=python&logoColor=3776AB)
+![HTML](https://img.shields.io/badge/HTML5-0A2E5D?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS3-0A2E5D?style=for-the-badge&logo=css3&logoColor=1572B6)
 
+![React](https://img.shields.io/badge/React-0A2E5D?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-0A2E5D?style=for-the-badge&logo=flutter&logoColor=02569B)
+![Laravel](https://img.shields.io/badge/Laravel-0A2E5D?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0A2E5D?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![MySQL](https://img.shields.io/badge/MySQL-0A2E5D?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 
 ###  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=28&duration=1&color=00E5FF&center=true&vCenter=true&width=600&lines=Tools+%26+Platforms" alt="Tools & Platforms" />
@@ -37,13 +36,13 @@
 
 
 
+![VS Code](https://img.shields.io/badge/VS%20Code-0A2E5D?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/Figma-0A2E5D?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Postman](https://img.shields.io/badge/Postman-0A2E5D?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Vercel](https://img.shields.io/badge/Vercel-0A2E5D?style=for-the-badge&logo=vercel&logoColor=fff)
+![Netlify](https://img.shields.io/badge/Netlify-0A2E5D?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Unity](https://img.shields.io/badge/Unity-0A2E5D?style=for-the-badge&logo=unity&logoColor=fff)
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=fff)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=fff)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=fff)
 
 </div>
 
