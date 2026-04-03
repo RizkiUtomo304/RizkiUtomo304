@@ -23,19 +23,15 @@
 
 
 
+## 👋 Hi, I'm Muhamad Rizki Utomo
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0A2E5D?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-0A2E5D?style=for-the-badge&logo=php&logoColor=777BB4)
-![Dart](https://img.shields.io/badge/Dart-0A2E5D?style=for-the-badge&logo=dart&logoColor=0175C2)
-![Python](https://img.shields.io/badge/Python-0A2E5D?style=for-the-badge&logo=python&logoColor=3776AB)
-![HTML](https://img.shields.io/badge/HTML5-0A2E5D?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS3-0A2E5D?style=for-the-badge&logo=css3&logoColor=1572B6)
+Seorang developer yang suka ngoding dan membangun aplikasi web & mobile.  
+Fokus pada membuat sistem yang clean, efisien, dan mudah dipakai.
 
-![React](https://img.shields.io/badge/React-0A2E5D?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-0A2E5D?style=for-the-badge&logo=flutter&logoColor=02569B)
-![Laravel](https://img.shields.io/badge/Laravel-0A2E5D?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0A2E5D?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-![MySQL](https://img.shields.io/badge/MySQL-0A2E5D?style=for-the-badge&logo=mysql&logoColor=4479A1)
+## 🚀 Tech Stack
+JavaScript • PHP • Dart • Python  
+React • Flutter • Laravel  
+Tailwind CSS • MySQL
 
 
 ###  <p align="center">
