@@ -23,12 +23,12 @@
 
 
 
-## 👋 Hi, I'm Muhamad Rizki Utomo
+##  Hi, I'm Muhamad Rizki Utomo
 
-Seorang developer yang suka ngoding dan membangun aplikasi web & mobile.  
+Seorang ex developer yang suka ngoding dan membangun aplikasi web & mobile.  
 Fokus pada membuat sistem yang clean, efisien, dan mudah dipakai.
 
-## 🚀 Tech Stack
+##  Tech Stack
 JavaScript • PHP • Dart • Python  
 React • Flutter • Laravel  
 Tailwind CSS • MySQL
