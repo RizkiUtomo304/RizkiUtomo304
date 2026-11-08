@@ -28,10 +28,7 @@
 Seorang ex developer yang suka ngoding dan membangun aplikasi web & mobile.  
 Fokus pada membuat sistem yang clean, efisien, dan mudah dipakai.
 
-##  Tech Stack
-JavaScript • PHP • Dart • Python  
-React • Flutter • Laravel  
-Tailwind CSS • MySQL
+
 
 
 ###  <p align="center">
