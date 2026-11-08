@@ -1,48 +1,63 @@
-### ![Header](https://capsule-render.vercel.app/api?type=waving&color=0A2E5D&height=120&section=header&text=Welcome!&fontColor=ffffff&fontAlignY=35&fontSize=40)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0A2E5D&height=160&section=header&text=Rizki%20Utomo&fontColor=ffffff&fontAlignY=38&fontSize=42)
 
-
-
-<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=Hi!+I'm+Rizki+Utomo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1500&color=00D9FF&center=true&vCenter=true&width=500&lines=Web+%26+Mobile+Developer;Building+Digital+Experiences;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
-
-
-
-
-
-
-
-
-##  Hi, I'm Muhamad Rizki Utomo
-
-Seorang ex developer yang suka ngoding dan membangun aplikasi web & mobile.  
-Fokus pada membuat sistem yang clean, efisien, dan mudah dipakai.
-
-
-
-
-###  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=28&duration=1&color=00E5FF&center=true&vCenter=true&width=600&lines=Tools+%26+Platforms" alt="Tools & Platforms" />
+<p align="center">
+  <a href="https://github.com/RizkiUtomo304">
+    <img src="https://img.shields.io/badge/GitHub-RizkiUtomo304-0A2E5D?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
-
-
-
-![VS Code](https://img.shields.io/badge/VS%20Code-0A2E5D?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/Figma-0A2E5D?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Postman](https://img.shields.io/badge/Postman-0A2E5D?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Vercel](https://img.shields.io/badge/Vercel-0A2E5D?style=for-the-badge&logo=vercel&logoColor=fff)
-![Netlify](https://img.shields.io/badge/Netlify-0A2E5D?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Unity](https://img.shields.io/badge/Unity-0A2E5D?style=for-the-badge&logo=unity&logoColor=fff)
-
-
-</div>
 
 ---
-### ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0A2E5D&height=120&section=footer)
+
+### About Me
+
+Hi, I'm **Muhamad Rizki Utomo**, a developer interested in building web and mobile applications.
+
+I enjoy exploring new technologies, solving problems, and turning ideas into functional applications. I'm always looking to improve my skills and learn something new along the way.
+
+- 💻 Interested in Web & Mobile Development
+- ⚙️ Enjoy working with backend systems and APIs
+- 🎨 Interested in UI/UX and application design
+- 🚀 Always learning and building new things
+
+### Tech Stack & Tools
+
+**Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,flutter,dart,python,mysql" />
+</p>
+
+**Tools & Platforms**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,vercel,netlify,unity" />
+</p>
 
 ---
+
+### GitHub Overview
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RizkiUtomo304&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RizkiUtomo304&show_icons=true&theme=transparent&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_color=0A2E5D&hide_border=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkiUtomo304&layout=compact&theme=transparent&title_color=00D9FF&text_color=FFFFFF&border_color=0A2E5D" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizkiUtomo304&theme=transparent&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=AAAAAA&border=0A2E5D" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RizkiUtomo304&label=Profile%20Views&color=0A2E5D&style=flat-square" />
+</p>
+
+<p align="center">
+  <i>"Keep building, keep learning, and never stop improving."</i>
+</p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0A2E5D&height=100&section=footer)
