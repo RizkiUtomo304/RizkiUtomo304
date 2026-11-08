@@ -7,16 +7,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=Hi!+I'm+Rizki+Utomo" alt="Typing SVG" />
 </p>
 
----
-
-<!-- Skills -->
 
 
-<div align="center">
-
-###   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=28&duration=1&color=00E5FF&center=true&vCenter=true&width=600&lines=Languages+%26+Frameworks" alt="Languages & Frameworks" />
-</p>
 
 
 
