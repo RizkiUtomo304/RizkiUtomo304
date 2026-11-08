@@ -18,26 +18,11 @@ Hi, I'm **Muhamad Rizki Utomo**, a developer interested in building web and mobi
 
 I enjoy exploring new technologies, solving problems, and turning ideas into functional applications. I'm always looking to improve my skills and learn something new along the way.
 
-- 💻 Interested in Web & Mobile Development
-- ⚙️ Enjoy working with backend systems and APIs
-- 🎨 Interested in UI/UX and application design
-- 🚀 Always learning and building new things
+-  Interested in Web & Mobile Development
+-  Enjoy working with backend systems and APIs
+-  Interested in UI/UX and application design
+-  Always learning and building new things
 
-### Tech Stack & Tools
-
-**Development**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,flutter,dart,python,mysql" />
-</p>
-
-**Tools & Platforms**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,vercel,netlify,unity" />
-</p>
-
----
 
 ### GitHub Overview
 
